@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="invoice_icon" transform="translate(-39 -152)">
+    <circle id="Ellipse_71" data-name="Ellipse 71" cx="32" cy="32" r="32" transform="translate(39 152)" fill="#fff"/>
+    <g id="invoice" transform="translate(54.772 166.304)">
+      <g id="Group_348" data-name="Group 348" transform="translate(5.489 31.438)">
+        <g id="Group_347" data-name="Group 347">
+          <rect id="Rectangle_1498" data-name="Rectangle 1498" width="21.001" height="2.386"/>
+        </g>
+      </g>
+      <g id="Group_350" data-name="Group 350" transform="translate(11.216 12.227)">
+        <g id="Group_349" data-name="Group 349">
+          <path id="Path_653" data-name="Path 653" d="M185.492,169.726h-7.358a1.193,1.193,0,1,0,0,2.387h7.358a1.193,1.193,0,0,0,0-2.387Z" transform="translate(-176.941 -169.726)"/>
+        </g>
+      </g>
+      <g id="Group_352" data-name="Group 352" transform="translate(11.216 17.795)">
+        <g id="Group_351" data-name="Group 351">
+          <path id="Path_654" data-name="Path 654" d="M191.061,257.569H178.134a1.193,1.193,0,1,0,0,2.387h12.927a1.193,1.193,0,0,0,0-2.387Z" transform="translate(-176.941 -257.569)"/>
+        </g>
+      </g>
+      <g id="Group_354" data-name="Group 354" transform="translate(0 1.568)">
+        <g id="Group_353" data-name="Group 353" transform="translate(0 0)">
+          <path id="Path_655" data-name="Path 655" d="M31.752,1.713a1.194,1.194,0,0,0-1.281.194L27.13,4.863,23.785,1.871a1.193,1.193,0,0,0-1.591,0L18.853,4.859,15.512,1.871a1.192,1.192,0,0,0-1.591,0L10.576,4.863,7.234,1.907A1.193,1.193,0,0,0,5.25,2.8V24.04H1.193A1.193,1.193,0,0,0,0,25.233v2.9a5.694,5.694,0,0,0,5.688,5.688V31.438a3.305,3.305,0,0,1-3.3-3.3v-1.71H21.08v1.71a5.688,5.688,0,1,0,11.375,0V2.8A1.193,1.193,0,0,0,31.752,1.713ZM30.069,28.137a3.3,3.3,0,0,1-6.6,0v-2.9a1.193,1.193,0,0,0-1.193-1.193H7.637V5.449l2.153,1.9a1.193,1.193,0,0,0,1.586,0l3.341-2.988,3.341,2.987a1.193,1.193,0,0,0,1.591,0L22.99,4.361l3.341,2.988a1.194,1.194,0,0,0,1.586,0l2.153-1.9Z" transform="translate(0 -1.568)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

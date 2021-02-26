@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="orange_play_button_icon" transform="translate(-339 -252)">
+    <circle id="Ellipse_70" data-name="Ellipse 70" cx="12.5" cy="12.5" r="12.5" transform="translate(339 252)" fill="#ffa62f"/>
+    <path id="play" d="M7.606,13.551a.816.816,0,0,1-.4-.108.907.907,0,0,1-.449-.792V5.962A.907.907,0,0,1,7.2,5.17a.81.81,0,0,1,.825.01L13.745,8.6a.83.83,0,0,1,0,1.407L8.027,13.433A.819.819,0,0,1,7.606,13.551Z" transform="translate(341.554 254.693)" fill="#fff"/>
+  </g>
+</svg>

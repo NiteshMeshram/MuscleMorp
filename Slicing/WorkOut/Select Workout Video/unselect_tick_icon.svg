@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="39" viewBox="0 0 41 39">
+  <g id="unselect_tick_icon" transform="translate(-7 -157)">
+    <ellipse id="Ellipse_78" data-name="Ellipse 78" cx="20.5" cy="19.5" rx="20.5" ry="19.5" transform="translate(7 157)" fill="#171717"/>
+    <g id="check-circle" transform="translate(9.699 161.092)">
+      <path id="Path_754" data-name="Path 754" d="M25.564,5.358a14.213,14.213,0,1,0,0,20.1,14.213,14.213,0,0,0,0-20.1ZM15.514,27.717A12.308,12.308,0,1,1,27.822,15.408,12.322,12.322,0,0,1,15.514,27.717Z" transform="translate(0 0)" fill="#585858"/>
+      <path id="Path_755" data-name="Path 755" d="M14.523,19.94l-4.37-4.37L8.805,16.917l5.718,5.718,9.971-9.971-1.347-1.347Z" transform="translate(-1.151 -1.552)" fill="#585858"/>
+    </g>
+  </g>
+</svg>

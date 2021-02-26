@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="skyblue_play_icon" transform="translate(-338 -251)">
+    <circle id="Ellipse_70" data-name="Ellipse 70" cx="32.5" cy="32.5" r="32.5" transform="translate(338 251)" fill="#65cee1"/>
+    <path id="play" d="M8.97,27.132a2.121,2.121,0,0,1-1.049-.28,2.357,2.357,0,0,1-1.167-2.059V7.4A2.357,2.357,0,0,1,7.921,5.343a2.107,2.107,0,0,1,2.145.027l14.864,8.9a2.159,2.159,0,0,1,0,3.658l-14.866,8.9A2.129,2.129,0,0,1,8.97,27.132Z" transform="translate(355.663 267.403)" fill="#fff"/>
+  </g>
+</svg>
